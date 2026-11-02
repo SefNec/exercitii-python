@@ -1,0 +1,6 @@
+def add_input_value():
+    nume = input("Care este numele tau?")
+    ani = input("Cati ani ai?")
+    hooby = input("Care este hobby-ul tau?")
+    print(f"Sunt {nume}, am {ani} ani si hobby-ul meu este {hooby}")
+add_input_value()
